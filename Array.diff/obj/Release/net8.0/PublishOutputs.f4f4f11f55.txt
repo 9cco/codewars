@@ -1,0 +1,5 @@
+/home/nicolai/Source/C#/Codewars/Array.diff/publish/Array.diff
+/home/nicolai/Source/C#/Codewars/Array.diff/publish/Array.diff.dll
+/home/nicolai/Source/C#/Codewars/Array.diff/publish/Array.diff.deps.json
+/home/nicolai/Source/C#/Codewars/Array.diff/publish/Array.diff.runtimeconfig.json
+/home/nicolai/Source/C#/Codewars/Array.diff/publish/Array.diff.pdb

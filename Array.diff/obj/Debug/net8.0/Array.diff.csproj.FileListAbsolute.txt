@@ -1,0 +1,14 @@
+/home/nicolai/Source/C#/Codewars/Array.diff/bin/Debug/net8.0/Array.diff
+/home/nicolai/Source/C#/Codewars/Array.diff/bin/Debug/net8.0/Array.diff.deps.json
+/home/nicolai/Source/C#/Codewars/Array.diff/bin/Debug/net8.0/Array.diff.runtimeconfig.json
+/home/nicolai/Source/C#/Codewars/Array.diff/bin/Debug/net8.0/Array.diff.dll
+/home/nicolai/Source/C#/Codewars/Array.diff/bin/Debug/net8.0/Array.diff.pdb
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/Array.diff.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/Array.diff.AssemblyInfoInputs.cache
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/Array.diff.AssemblyInfo.cs
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/Array.diff.csproj.CoreCompileInputs.cache
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/Array.diff.dll
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/refint/Array.diff.dll
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/Array.diff.pdb
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/Array.diff.genruntimeconfig.cache
+/home/nicolai/Source/C#/Codewars/Array.diff/obj/Debug/net8.0/ref/Array.diff.dll
